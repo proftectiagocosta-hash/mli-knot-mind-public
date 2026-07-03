@@ -1,0 +1,96 @@
+:root {
+  --bg: #050805;
+  --panel: #0b130d;
+  --text: #d8ffe1;
+  --muted: #8bd99c;
+  --accent: #28ff72;
+  --border: rgba(40, 255, 114, 0.25);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  background: radial-gradient(circle at top, #12351d 0%, var(--bg) 42%, #000 100%);
+  color: var(--text);
+}
+
+.wrap {
+  width: min(1100px, 92vw);
+  margin: 0 auto;
+}
+
+.hero {
+  padding: 56px 0 34px;
+  border-bottom: 1px solid var(--border);
+}
+
+.badge {
+  display: inline-block;
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  color: var(--accent);
+  background: rgba(40, 255, 114, 0.08);
+  border-radius: 999px;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: clamp(36px, 7vw, 74px);
+  line-height: 0.95;
+  margin: 20px 0;
+}
+
+.lead {
+  max-width: 850px;
+  color: var(--muted);
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.banner {
+  width: 100%;
+  max-height: 280px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  margin-top: 26px;
+  box-shadow: 0 0 40px rgba(40, 255, 114, 0.18);
+}
+
+main {
+  padding: 36px 0 60px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+  margin-bottom: 18px;
+}
+
+.card {
+  border: 1px solid var(--border);
+  background: rgba(11, 19, 13, 0.82);
+  border-radius: 18px;
+  padding: 22px;
+  box-shadow: 0 0 24px rgba(40, 255, 114, 0.08);
+  margin-bottom: 18px;
+}
+
+.card h2 {
+  color: var(--accent);
+}
+
+li {
+  margin: 10px 0;
+}
+
+footer {
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  padding: 20px 0;
+}
