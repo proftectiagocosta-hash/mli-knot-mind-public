@@ -76,6 +76,18 @@ A proposta desta vitrine é apresentar o **MLI-Knot Mind** como uma abordagem de
 - continuidade com integridade;
 - separação entre execução real e intenção declarada.
 
+### Templates públicos de apoio
+
+Estes templates públicos complementam a vitrine do MLI-Knot Mind com recursos pequenos, reutilizáveis e sanitizados:
+
+| Template | Uso |
+|---|---|
+| [Prompt Governance Checklist](https://gist.github.com/proftectiagocosta-hash/96e4de684b44b3ae115f4641803e7893) | Checklist para separar fatos, hipóteses, inferências, limitações, decisões e próximos passos. |
+| [Project Resume Template](https://gist.github.com/proftectiagocosta-hash/007d4e9659b2f997452abf550002d829) | Modelo simples para retomar projetos sem perder o que já funciona e o que falta fazer. |
+| [README Project Status Template](https://gist.github.com/proftectiagocosta-hash/057195ac4a551383358fb871f8993219) | Bloco leve para deixar o status de um repositório mais claro. |
+
+Veja também: [`docs/public_templates.md`](docs/public_templates.md).
+
 ### Documentação principal
 
 - [`MANIFESTO.md`](MANIFESTO.md)
@@ -88,6 +100,7 @@ A proposta desta vitrine é apresentar o **MLI-Knot Mind** como uma abordagem de
 - [`docs/exemplos_sanitizados.md`](docs/exemplos_sanitizados.md)
 - [`docs/casos_de_uso.md`](docs/casos_de_uso.md)
 - [`docs/faq.md`](docs/faq.md)
+- [`docs/public_templates.md`](docs/public_templates.md)
 
 ---
 
@@ -146,6 +159,18 @@ This showcase presents **MLI-Knot Mind** as a quality-oriented approach to AI us
 - context governance;
 - continuity with integrity;
 - separation between real execution and declared intention.
+
+### Public companion templates
+
+These public templates complement the MLI-Knot Mind showcase with small, reusable, sanitized resources:
+
+| Template | Use |
+|---|---|
+| [Prompt Governance Checklist](https://gist.github.com/proftectiagocosta-hash/96e4de684b44b3ae115f4641803e7893) | Checklist for separating facts, hypotheses, inferences, limitations, decisions, and next steps. |
+| [Project Resume Template](https://gist.github.com/proftectiagocosta-hash/007d4e9659b2f997452abf550002d829) | Small template for restarting project work without losing what already works and what remains pending. |
+| [README Project Status Template](https://gist.github.com/proftectiagocosta-hash/057195ac4a551383358fb871f8993219) | Lightweight block for making a repository status clearer. |
+
+See also: [`docs/public_templates.md`](docs/public_templates.md).
 
 ---
 
