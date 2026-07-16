@@ -88,6 +88,17 @@ Estes templates públicos complementam a vitrine do MLI-Knot Mind com recursos p
 
 Veja também: [`docs/public_templates.md`](docs/public_templates.md).
 
+### Vitrines públicas relacionadas
+
+Estas vitrines públicas sanitizadas mostram como a separação entre núcleo privado e superfície pública é aplicada em outros projetos do ecossistema:
+
+| Vitrine | Projeto fonte | Uso público |
+|---|---|---|
+| [MLI-Knot-Cursos Showcase](https://github.com/proftectiagocosta-hash/mli-knot-cursos-showcase) | `MLI-Knot-Cursos` privado | Fluxo educacional público, sanitizado e documentado. |
+| [MLI-Knot ScriptPackage Showcase](https://github.com/proftectiagocosta-hash/mli-knot-scriptpackage-showcase) | `mli-knot-video-forge-lite` privado | Conceito público e sanitizado do formato ScriptPackage v0.1. |
+
+Essas vitrines não expõem código-fonte privado, dados reais, prompts privados ou material interno não revisado.
+
 ### Documentação principal
 
 - [`MANIFESTO.md`](MANIFESTO.md)
@@ -171,6 +182,17 @@ These public templates complement the MLI-Knot Mind showcase with small, reusabl
 | [README Project Status Template](https://gist.github.com/proftectiagocosta-hash/057195ac4a551383358fb871f8993219) | Lightweight block for making a repository status clearer. |
 
 See also: [`docs/public_templates.md`](docs/public_templates.md).
+
+### Related public showcases
+
+These sanitized public showcases show how private cores and public surfaces are separated across the ecosystem:
+
+| Showcase | Source project | Public use |
+|---|---|---|
+| [MLI-Knot-Cursos Showcase](https://github.com/proftectiagocosta-hash/mli-knot-cursos-showcase) | private `MLI-Knot-Cursos` | Public sanitized documentation of the educational platform flow. |
+| [MLI-Knot ScriptPackage Showcase](https://github.com/proftectiagocosta-hash/mli-knot-scriptpackage-showcase) | private `mli-knot-video-forge-lite` | Public sanitized documentation of the ScriptPackage v0.1 concept. |
+
+These showcases do not expose private source code, real data, private prompts, or unrevised internal material.
 
 ---
 
